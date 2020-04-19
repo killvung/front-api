@@ -1,0 +1,1 @@
+from app.walk.views import walk # noqa
